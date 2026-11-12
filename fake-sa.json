@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tf-test-project",
+  "private_key_id": "emulator-key-1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfkM/Z0Fgge8og\n4fHf8vv9oOLW42yOtANtOoOLDhuACMHLFhYS2Rc57NQTQS8q49AyV5+1SLYeHa8N\ntbI9jvCFWLGryGFQ87aLR+1txBntmwMhAW1enqgEiIlRFEjnzCW1pig1jBiwpZxb\nJV20mrsPffaZkegn1JUJke2AkCyRKWSwlFpJtri3wSQhvUg3Vy1U/Lby6+fHWGDU\nXUn0pmvLV7ym8Ky/s3N+jBH+KPFjNcQ+xfJQxP+KhXoiwT0Q0wY4Y3lOCGb8iOsG\ncrYhoA+rLtzOhoIpdbxZ2rajwGEA7OVJKarx6sWzKc5UzHUv5gNnL8sezVH8rGPi\npQoYkaETAgMBAAECggEAB/l2CzKXoiOoPxSwIv6GJzLbmdynh6OQ0mREQuva5piU\nCQwdoh3PlUexp4orW4qgEjD2nRRzN+Rz1Q0GcZRYAfmlmhdeA/GIMQmnb23k8DPC\nSyVuOEd303Q8qawL5Ftve5OUsEGcs9hZw7/edXhmHxRYJ9GA3W2Db2xJc3eGZMXA\nejuCziiZr4ZSGdAhr+HCRQPcfNCy/t2BJGtSUH8potoqmlqBCwCO6bI3QOH71M1A\niQWXEvg0NdzH3u6JWNzFHtcSHitmnuCTy0nW9Bq04hjvn3aOgoU5KTuLWV2dnAj4\nCJqoKtW+PKMBWqM4uuIoDdkqZr+10TkjPnBFKrp9KQKBgQDvRbjbOVuz6ij7PYdi\nzs7b6TXau3lTC9dZ73u/D4gIGXeKWXx0q9Qs1m0sHXd+Ap3d3xK5Rn6krQNGr+5r\nxBCxnlhgQvLByUGpC5KHAkd9IUTEqFjAXGeCV11nnYQkJSJXJkijDc6Xopz5/r0/\nHm1cC4xrME5B7n5T+sSlU7KEJQKBgQDvMfxrIfE/j22QgrhqNQN2+LP4JAsv2PsO\nyYaIGqdffsrUGkz4gX/wFChI8BJc13CoeFzhltHjfblZxbcUranWokWw1eo6naDW\nTxfctBABKozbsSDfzG1/3UBkt6WXBjfW70v5mcxpYMIy4hjq2/gq8/r0xC0o2UEs\n5kl+im4u1wKBgQCksNPVKPzCsHj2vVoTm49sdG/aF1Ih5DOdNqZxUspp8MWEF6X/\nVEoddpX8WGfn9vscPS/REQGYbXGk1PGBgZmP+BKSZ2JaGiG0rj9z6BC2wxBnYAx+\nktu4LlQfPp82lcy2OaajfJxnaMktlbZC3LmfMl+7Y6tp3DNdsGxr81kbdQKBgB/w\nbcMkaiFRlpC4U8WixI6rUOSuc2v1LjjgQf2EiZrfxFekF2kLabj2CBcNL3aEMf/c\n6pIY4Hfe/tP06ahyM/579pBRUBB5odNcBlSrGoP9WYewVDJuCqULNyD7wLm009n4\nZA21Mq1ThTrkI+2gZ7fckkMCuwD8WY6URXYHKAVLAoGAP4hZGi+WUbojG9l3/0qV\nEo6Fj9uqHiE36jfjT7jkuVDq/u/+zUZN5JlF1P6cLylBptBcIJApkhQ8MMc8DYqp\nxpBl9SpKaeOXqXcoUIPmmTtdcpCKK3sBmNWZqRAeIFIprBlt8pElCfmaNaoASiDF\nhSxC2BMuspxi6LVyAO6BPug=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformer@tf-test-project.iam.gserviceaccount.com",
+  "client_id": "100000000000000000001",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "http://127.0.0.1:8800/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformer%40tf-test-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
